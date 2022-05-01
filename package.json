@@ -1,0 +1,24 @@
+{
+  "name": "classesandoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test:report":"jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JibranH24/classesandoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JibranH24/classesandoop/issues"
+  },
+  "homepage": "https://github.com/JibranH24/classesandoop#readme",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+  
+}
